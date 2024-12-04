@@ -1,11 +1,5 @@
 # ASL_Recognition
 
-Here's the updated `README.md` with a mention that this project was created for a cumulative project for the *Deep Learning with PyTorch* course at Fanshawe College:
-
----
-
-# Sign Language Recognition Dashboard
-
 This project demonstrates the use of deep learning models to recognize American Sign Language (ASL) letters. It was created as a **cumulative project for the Deep Learning with PyTorch course at Fanshawe College**, showcasing the application of advanced neural network architectures in solving real-world problems.
 
 ---
