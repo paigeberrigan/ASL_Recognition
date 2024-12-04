@@ -32,7 +32,7 @@ Ensure you have the following installed:
 Install the dependencies using pip:
 
 ```bash
-pip install torch torchvision gradio pandas numpy plotly Pillow
+pip install requirements.txt
 ```
 
 ---
