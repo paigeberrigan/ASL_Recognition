@@ -156,6 +156,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For more information or to contribute to this project, please reach out:
 
-- **Author**: Your Name
+- **Author**: Paige Berrigan
 - **GitHub**: [@paigeberrigan](https://github.com/paigeberrigan)
 - **Email**: [paige@interweavemediagroup.ca](mailto:paige@interweavemediagroup.ca)
