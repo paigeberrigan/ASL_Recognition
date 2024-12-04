@@ -59,11 +59,7 @@ cd sign-language-recognition
 
 3. **Launch the Dashboard**
 
-   Run the main script to start the Gradio app:
-
-   ```bash
-   python main.py
-   ```
+   Run the app_signlanageMNIST.ipynb script and launch the dashboard. 
 
 4. **Access the Dashboard**
 
@@ -161,5 +157,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For more information or to contribute to this project, please reach out:
 
 - **Author**: Your Name
-- **GitHub**: [yourusername](https://github.com/paigeberrigan)
+- **GitHub**: [@paigeberrigan](https://github.com/paigeberrigan)
 - **Email**: [paige@interweavemediagroup.ca](mailto:paige@interweavemediagroup.ca)
